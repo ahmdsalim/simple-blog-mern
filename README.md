@@ -39,10 +39,7 @@ Follow these steps to set up the project locally:
    cd ../backend
    npm install
 3. Run the project
-   For backend run
    ```bash
-   npm start
-   For frontend run
-   ```bash
-   npm run dev
+   npm start #run backend
+   npm run dev #run frontend
 4. Open http://localhost:5173 on your browser
